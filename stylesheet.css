@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    color: #2C96BF;
+}
+
+.parrafo_margen1 {
+    text-align: justify;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    color: #051014;
+}
+
+html {
+    background-color: #F2F2F2;
+}
